@@ -6,5 +6,5 @@ npm run dev
 
 #to do migration
 
-npm dbmigrate:dev
+npm run dbmigrate:dev
 
